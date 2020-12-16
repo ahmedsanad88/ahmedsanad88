@@ -38,9 +38,9 @@
 <br />
 <br />
 
-<details>
+
 [![Sanad's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsanad88)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+
 
 
 [twitter]: https://twitter.com/ahmedsand151188

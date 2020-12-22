@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed-Sanad [WittyCoder]👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ahmedsand151188?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmedsanad1188&screen_name=ahmedsanad1188)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ahmedsanad1188?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmedsanad1188&screen_name=ahmedsanad1188)
 
 ## what a start to kick my new dev career as web developer by beginning your dream at the same time!!
 

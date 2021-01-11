@@ -5,7 +5,7 @@
 ## what a start to kick my new dev career as web developer by beginning your dream at the same time!!
 
 - 🔭 I’m currently Learning on CS50 Program 🤓🤓.
-- 🔭 I’m currently working on Updating my WebSite.
+- 🔭 I’m currently working on Daily Programming News blog.
 - 🤝 I’m looking to collaborate with other  Programmers 👨🏽‍💻, Content Creators ✍🏼.
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects🏆.
 - ⚡ Fun fact: I love photography because it opens your imagination 📸.

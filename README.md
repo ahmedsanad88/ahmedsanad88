@@ -1,14 +1,14 @@
-### Hi there, I'm Ahmed-Sanad [WittyCoder]👋
+### Hi there, I'm Ahmed-Sanad [WittyCoder][website]👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedsanad1188?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmedsanad1188&screen_name=ahmedsanad1188)
 
 ## what a start to kick my new dev career as web developer by beginning your dream at the same time!!
 
 - 🔭 I’m currently Learning on CS50 Program 🤓🤓.
-- 🖥 I’m currently working on Daily Programming News blog.
+- 🖥 I'm currently working on my starting up my career...👨🏽‍🎓
 - 🤝 I’m looking to collaborate with other  Programmers 👨🏽‍💻, Content Creators ✍🏼.
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects🏆.
-- ⚡ Fun fact: I love photography because it opens your imagination 📸.
+- ⚡ Interest: I love photography because it opens your imagination 📸.
 
 
 ### Connect with me:

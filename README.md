@@ -4,8 +4,8 @@
 
 ## what a start to kick my new dev career as web developer by beginning your dream at the same time!!
 
-- 🔭 I’m currently Learning on CS50 Program 🤓🤓.
-- 🖥 I'm currently working on my starting up my career...👨🏽‍🎓
+- 🔭 I’m i'm just finished CS50 Program 🤓🤓✅.
+- 🖥 I'm currently working on building up my career...👨🏽‍🎓
 - 🤝 I’m looking to collaborate with other  Programmers 👨🏽‍💻, Content Creators ✍🏼.
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects🏆.
 - ⚡ Interest: I love photography because it opens your imagination 📸.
@@ -40,7 +40,7 @@
 <br />
 
 
-[![Sanad's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsanad88)](https://github.com/anuraghazra/github-readme-stats)
+![Ahmed Sanad-GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsanad88&show_icons=true&theme=tokyonight)
 
 
 [Website]: https://ahmedsanadweb.com/

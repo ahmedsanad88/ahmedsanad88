@@ -4,8 +4,8 @@
 
 ## what a start to kick my new dev career as web developer by beginning your dream at the same time!!
 
-- 🔭 I’m working on projects using technologies [HTML5, CSS3, JAVASCRIPT, REACT] 🤓🤓✅.
-- 🖥 I'm currently working on Upwork & freelancer...👨🏽💰💻
+- 🔭 I’m working on projects using technologies [HTML5, CSS3, JAVASCRIPT, REACT, Redux, Node, Express, MongoDB] 🤓🤓✅.
+- 🖥 I'm currently working at Upwork & freelancer...👨🏽💰💻
 - 🤝 I’m looking to collaborate with other  Programmers 👨🏽‍💻, Content Creators ✍🏼.
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects🏆.
 - ⚡ Interest: I love photography because it opens your imagination 📸.

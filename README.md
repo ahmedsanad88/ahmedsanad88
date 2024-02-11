@@ -24,16 +24,16 @@
 ### Connect with me:
 
 <a href="https://ahmedsanad.net/"><img align="center" 
-  src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F"     height="25"
-  alt="website" />
+  src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://ahmedsanad.net/" height="25"
+  alt="Home" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-ibrahim-2a0220110/" target="blank"><img align="center"
   src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="azzar" height="30"/>
+  alt="ahmedsanad" height="30"/>
 </a>
 <a href="https://twitter.com/ahmedsanad1188" target="blank"><img align="center"
   src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-  alt="azzar" height="30"/>
+  alt="ahmedsanad" height="30"/>
 </a>
 <!-- 
 [<img align="left" alt="ahmedsanad.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,7 +47,7 @@
   <h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,nextjs,ts,jest,redux,bootstrap,materialui,tailwind,nodejs,express,mongodb,firebase,heroku,netlify,git,github,c,linux,bash,vscode,figma,xd,markdown" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,nextjs,ts,prisma,jest,redux,bootstrap,materialui,tailwind,nodejs,express,mongodb,firebase,heroku,netlify,git,github,c,linux,bash,vscode,figma,xd,markdown" />
   </a>
 </p>
 </div>
@@ -55,15 +55,20 @@
 <br />
 
 
-![Ahmed Sanad-GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsanad88&show_icons=true&theme=tokyonight)
+<!-- ![Ahmed Sanad-GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsanad88&show_icons=true&theme=tokyonight) -->
 
+[![card](https://github-readme-stats.vercel.app/api?username=ahmedsanad88&theme=dracula&show_icons=true)](https://github.com/ahmedsanad88/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsanad88&hide=css&layout=compact&theme=dracula)](https://github.com/ahmedsanad88/github-readme-stats)
+
+<!-- 
 <a href="https://github.com/ahmedsanad88/">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedsanad88&theme=gruvbox&layout=compact&hide_border=true"
   alt="ahmedsanad88 :: Top Langs by repo" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedsanad88&theme=gruvbox&layout=compact&hide_border=true"
   alt="ahmedsanad88 :: Top Langs by commit" />
 </a>
-
+-->
 
 [Website]: https://ahmedsanad.net/
 [twitter]: https://twitter.com/ahmedsanad1188

@@ -47,7 +47,7 @@
   <h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,nextjs,ts,prisma,jest,redux,bootstrap,materialui,tailwind,nodejs,express,mongodb,firebase,heroku,netlify,git,github,c,linux,bash,vscode,figma,xd,markdown" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,nextjs,ts,prisma,jest,redux,bootstrap,materialui,tailwind,nodejs,express,mongodb,firebase,heroku,netlify,git,github,c,linux,bash,vscode,figma,xd,markdown,nestjs,azure" />
   </a>
 </p>
 </div>
